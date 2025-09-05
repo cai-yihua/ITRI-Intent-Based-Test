@@ -8,7 +8,7 @@
 1. 意圖網管系統需存在
 2. 測試環境為 Windows
 
-## 目錄結構（摘要）
+## 目錄結構
 ```
 Intent-Based-Test-Report/
 │
@@ -29,7 +29,7 @@ Intent-Based-Test-Report/
 ```
 
 ## 設置測試環境
-### 拉取ITRI-Intent-Based&-Test環境設定&安裝套件
+### 拉取 ITRI-Intent-Based&-Test
 ```bash
 git clone https://github.com/cai-yihua/ITRI-Intent-Based-Test.git
 cd ITRI-Intent-Based-Test
