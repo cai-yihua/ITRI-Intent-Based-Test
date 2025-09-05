@@ -1,0 +1,5 @@
+airtest==1.3.6
+airtest-selenium==1.0.6
+selenium==4.2.0
+pynput==1.8.1
+python-dotenv
