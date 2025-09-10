@@ -1,0 +1,35 @@
+NOTICE
+======
+
+This project, ITRI-Intent-Based-Test, includes the following third-party libraries and tools:
+
+- Airtest (v1.3.6)
+  License: Apache License 2.0
+  https://github.com/AirtestProject/Airtest
+
+- Airtest-Selenium (v1.0.6)
+  License: Apache License 2.0
+  https://github.com/AirtestProject/Airtest
+
+- Selenium (v4.2.0)
+  License: Apache License 2.0
+  https://www.selenium.dev/
+
+- Pynput (v1.8.1)
+  License: GNU Lesser General Public License v3.0 (LGPL-3.0)
+  https://github.com/moses-palmer/pynput
+
+- Python-dotenv
+  License: BSD-3-Clause
+  https://github.com/theskumar/python-dotenv
+
+- NumPy
+  License: BSD-3-Clause
+  https://numpy.org/
+
+- ChromeDriver
+  License: Google ChromeDriver End User License Agreement
+  https://chromedriver.chromium.org/home
+
+Each third-party component retains its own copyright and license.
+This project itself is licensed under the Apache 2.0 License - see LICENSE for details.
