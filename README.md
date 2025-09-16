@@ -65,4 +65,4 @@ python .\Intent-Based-Test-Report.py
 
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE](./LICENSE) file for details.
-This project also uses third-party libraries under their respective licenses - see the [NOTICE](./NOTICE) file for details.
+This project also uses third-party libraries under their respective licenses - see the [THIRD-PARTY-LICENSES.md](./THIRD-PARTY-LICENSES.md) file for details.
