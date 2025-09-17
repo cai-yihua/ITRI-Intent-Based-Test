@@ -10,11 +10,11 @@ This project uses the following third-party libraries and components:
 |  | Pynput | LGPL-3.0 | 鍵盤滑鼠事件監控與控制 |
 |  | Python-dotenv | BSD-3-Clause | 讀取與管理 .env 檔案，處理環境變數 |
 |  | NumPy | BSD-3-Clause | 科學計算與陣列運算函式庫 |
-|  | ChromeDriver | Google ChromeDriver EULA | Selenium WebDriver 所需瀏覽器驅動 |
+|  | ChromeDriver | BSD 3-Clause License | Selenium WebDriver 所需瀏覽器驅動 |
 | Log | lazyload.js | MIT License | 圖片延遲加載 JavaScript 插件 |
-|  | report.js | MIT License | Airtest 報告前端展示腳本 |
-|  | zh_CN.js | MIT License | Airtest 報告多語言包 |
-|  | report.css | MIT License | Airtest 報告前端樣式表 |
+|  | report.js | Apache License 2.0 | Airtest 報告前端展示腳本 |
+|  | zh_CN.js | Apache License 2.0 | Airtest 報告多語言包 |
+|  | report.css | Apache License 2.0 | Airtest 報告前端樣式表 |
 |  | glyphicons-halflings-regular.* | MIT License | Bootstrap Glyphicons 字型資源 |
 |  | SourceHanSansCN-Regular.ttf | SIL Open Font License | 思源黑體中文字型 |
-|  | Airtest.png, AirtestIDE.png, poco.png, AirLab.png, netease.png 等 | 依原始專案授權 | 報告展示用圖示資源 |
+|  | Airtest.png, AirtestIDE.png, poco.png, AirLab.png, netease.png 等 | Apache License 2.0 | 報告展示用圖示資源 |
